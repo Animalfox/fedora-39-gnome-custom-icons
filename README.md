@@ -24,7 +24,7 @@ If you have any feedback, please reach out to me through the issue panel.
 
 Feel free to contribute adding new icons to the repository. Just make a new PR and I will evaluate your request.
 
-To get started use the `folder-github.svg` file wich represent the basic GNOME icon.
+To get started use the `./scalable/places/folder-github.svg` file wich represent the basic GNOME icon.
 
 **Some notes on new icons**
 
@@ -37,10 +37,10 @@ To get started use the `folder-github.svg` file wich represent the basic GNOME i
 | --------------------------- | ---------------------------------------------------------------- |
 | Folder Color                | ![#A4CAEE](https://via.placeholder.com/10/A4CAEE?text=+) #A4CAEE |
 | Icon Color                  | ![#438DE6](https://via.placeholder.com/10/438DE6?text=+) #438DE6 |
-| Folder Dimensions           | like `folder-github.svg`                                         |
-| Folder Padding              | like `folder-github.svg`                                         |
-| Icon Dimensions             | like `folder-github.svg`                                         |
-| Stroke width (where needed) | like `folder-github.svg`                                         |
+| Folder Dimensions           | like `./scalable/places/folder-github.svg`                       |
+| Folder Padding              | like `./scalable/places/folder-github.svg`                       |
+| Icon Dimensions             | like `./scalable/places/folder-github.svg`                       |
+| Stroke width (where needed) | like `./scalable/places/folder-github.svg`                       |
 
 > You can freely create not only folder icons, but also other missing ones. The main thing is to maintain the overall style and integrity with Fedora 39 Gnome.
 
